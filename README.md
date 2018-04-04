@@ -8,7 +8,7 @@
 
 **Execution:** `./piku`
 
-**Issues:**: None
+**Issues:** None
 
 ## Expected output
 ```
